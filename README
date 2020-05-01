@@ -1,0 +1,28 @@
+all_month.csv downloaded 3/3/2020 @ 2:50pm
+
+From USGS website:
+ Below are the fields included in the spreadsheet output:
+
+    time
+    latitude
+    longitude
+    depth
+    mag
+    magType
+    nst
+    gap
+    dmin
+    rms
+    net
+    id
+    updated
+    place
+    type
+    locationSource
+    magSource
+    horizontalError
+    depthError
+    magError
+    magNst
+    status
+
